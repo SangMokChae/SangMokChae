@@ -28,10 +28,10 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
 **초기 경력 — 레거시 웹** ![경험](https://img.shields.io/badge/%EC%B4%88%EA%B8%B0%20%EA%B2%BD%EB%A0%A5-9E9E9E?style=flat-square)
 
+![Spring Framework](https://img.shields.io/badge/Spring_Framework_(%EB%A0%88%EA%B1%B0%EC%8B%9C)-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square)
 ![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat-square)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
@@ -40,6 +40,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js_(%EA%B8%B0%EC%B4%88)-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white)
 
 ### 🧪 개인 — Go 서버 · Android
 
@@ -60,6 +61,8 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+> 공개 저장소 — [ChatGateway](https://github.com/SangMokChae/ChatGateway) · [ChatApiServer](https://github.com/SangMokChae/ChatApiServer) · [ChatListServer](https://github.com/SangMokChae/ChatListServer) · [KafkaConsumer](https://github.com/SangMokChae/KafkaConsumer)
+
 **Android**
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
@@ -73,6 +76,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+> 공개 저장소 — [BootReactTest](https://github.com/SangMokChae/BootReactTest) (Spring Boot + React)
+
 **통신 · 스토리지**
 
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
@@ -85,6 +90,7 @@
 **현재 사용 중**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
 **4년 이상**
 
@@ -98,6 +104,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+### 🖥 서버 운영
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+> 서버는 Windows · Linux 양쪽을 다루고, 반복 작업은 셸 스크립트로 묶어 둡니다.
+
+---
+
 ### ⚙️ 공통 — 빌드 · 배포 · 관측
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -105,28 +121,21 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
 ---
 
-## 📌 만들고 있는 것
+### 🤖 AI 활용
 
-| 프로젝트 | 무엇 | 스택 |
-|---|---|---|
-| **[Chat MSA](https://github.com/SangMokChae?tab=repositories&q=Chat)** 🌐 | 리액티브 채팅 마이크로서비스 4종 — 게이트웨이 · API · 목록 · Kafka 소비자로 쪼갬 | Java · Spring WebFlux · Spring Cloud Gateway · Spring Kafka · MongoDB · Redis · R2DBC/MySQL · JWT |
-| **speakCode** 🔒 | 집 PC 에 직접 올린 자체 호스팅 채팅 서버. 텍스트 → 파일 공유 → 음성 통화 순으로 쌓는 중 | Go · WebSocket · Snowflake ID · PostgreSQL · Redis · MinIO · asynq · MessagePack · React |
-| **searchApp** 🔒 | 검색 서비스 백엔드. 관측성 · 웹푸시 · 컨테이너 배포까지 직접 배선 | Go · chi · pgx · NATS · Redis · Prometheus · OpenTelemetry · Wire · Docker · K8s |
-| **gitMonitor** 🔒 | 토큰 하나로 접근 가능한 **모든 저장소 · 모든 브랜치**의 push 를 감시. Webhook · Git Hook · GitHub App 을 쓰지 않음 | Python · TypeScript · Docker · 단독 exe 빌드 |
-| **learningLanguage** 🔒 | 오프라인 우선 일본어 · 영어 학습 앱. SRS(FSRS) 복습 · 기기 안 AI · 서버 없음 | Kotlin · Jetpack Compose · Hilt · Room · DataStore · ML Kit · Gradle 규약 플러그인 |
-| **DocsReader** 🔒 | 완전 오프라인 문서 · 만화 뷰어 (Android). ZIP 직접 열기 · 읽기 상태 백업 | Kotlin · Jetpack Compose · Room · WorkManager |
-| **smallRadio** 🔒 | 인터넷 라디오 앱. 버즈 · 유선 이어폰으로 백그라운드 스트리밍, 끊겨도 저장 목록으로 탐색 | Kotlin · Compose (Material 3) · Media3 ExoPlayer · Docker 빌드 |
-| **schedule-app** 🔒 | 일정 관리 웹앱. 음력 지원 · PDF 출력 · JWT 인증 | Next.js · TypeScript · Tailwind CSS · SQLite · Jenkins · NGINX |
-| **[BootReactTest](https://github.com/SangMokChae/BootReactTest)** 🌐 | Spring Boot 와 React 를 붙여 보는 연습 저장소 | Java · Spring Boot · React · JavaScript |
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex_(GPT)-412991?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-🌐 공개 저장소 · 🔒 비공개 (지인용 · 개인 학습용이라 열어두지 않았습니다)
-
-> 작업 방식: 설계 문서(`docs/`)를 먼저 쓰고 → `T-xxx` 단위로 하나씩 → 막힌 일은 **원인 · 조치 · 결과** 세 줄로 남깁니다.
+- AI 개발 환경 설계
+- 에이전트 설계 · 제작
+- 자동화 설계 · 개발 — Excel · PowerPoint · Word 문서 자동화
 
 ---
 
@@ -138,21 +147,8 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![프로필 요약](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangmokchae&theme=github)
-
-![연속 커밋](https://streak-stats.demolab.com/?user=sangmokchae&theme=default&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/chsm3285@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chsm3285@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sangmokchae)
 
 </div>
