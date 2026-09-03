@@ -4,7 +4,7 @@
 
 **백엔드와 분산 인프라를 축으로, 서버를 직접 세워 끝까지 굴려 봅니다.**
 
-업무에서는 Java · Spring Boot 로 Kafka · Elasticsearch · Cassandra 가 얽힌 시스템을 다루고,
+업무에서는 Java · Spring Boot 로 Kafka · Elasticsearch 가 얽힌 시스템을 다루고,
 개인으로는 Go 서버와 Android 앱을 처음부터 끝까지 만듭니다.
 설계 문서(ADR)를 먼저 쓰고, 코드와 문서가 어긋나면 문서를 기준으로 고칩니다.
 
@@ -40,7 +40,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js_(%EA%B8%B0%EC%B4%88)-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white)
 
 ### 🧪 개인 — Go 서버 · Android
 
@@ -87,12 +86,7 @@
 
 ### 🗄 데이터베이스
 
-**현재 사용 중**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
-
-**4년 이상**
+**많은 사용**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -100,9 +94,13 @@
 
 **사용 경험**
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
 ![Tibero](https://img.shields.io/badge/Tibero-004C97?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+
+---
 
 ### 🖥 서버 운영
 
@@ -122,6 +120,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Apache Ant](https://img.shields.io/badge/Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
