@@ -190,6 +190,4 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/chsm3285@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chsm3285@gmail.com)
-
 </div>
